@@ -1,0 +1,2 @@
+# yamanmehmett.github.io
+landingpage
